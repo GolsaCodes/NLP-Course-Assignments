@@ -279,7 +279,7 @@ Compare the performance of different CNN configurations and the hybrid CNN-LSTM 
 
 ## General Repository Structure
 
-The repository is organized by assignment number. Each assignment contains its corresponding implementation, notebooks, reports, and experimental results.
+The repository is organized by assignment number. Each assignment contains its corresponding implementation, notebooks and reports.
 
 ```text
 NLP-Course-Assignments/
@@ -287,24 +287,28 @@ NLP-Course-Assignments/
 ├── README.md
 │
 ├── Assignment-1/
-│   └── Results.pdf
-│
+│   ├── Assignment-1.ipynb
+│   └── reports.pdf
 ├── Assignment-2/
-│   ├── implementation.ipynb
-│   └── analysis.pdf
+│   ├── Assignment-2.ipynb
+│   └── reports.pdf
 │
 ├── Assignment-3/
-│   └── implementation.ipynb
+│  ├── Assignment-3.ipynb
+│  └── reports.pdf
 │
 ├── Assignment-4/
-│   └── implementation.ipynb
-│
+│   ├── A.ipynb
+│   └── B.ipynb
+|   └── C.ipynb
+│   └── D.ipynb
+|   └── reports.pdf
+|
 └── Assignment-5/
-    └── implementation.ipynb
+|    ├── A.ipynb
+│    └── B.ipynb
+|    └── reports.pdf
 ```
-
-*Note: The directory and file names above are suggested examples and can be adjusted to match the actual uploaded files.*
-
 ---
 
 ## Overall Learning Outcomes
