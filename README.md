@@ -323,5 +323,3 @@ These five assignments provide practical experience with fundamental NLP and mac
 - Convolutional neural networks for text classification.
 - Hybrid CNN-LSTM architectures.
 - Model evaluation using classification metrics and confusion matrices.
-
-The assignments collectively explore different approaches to English and Persian text processing, clustering, and classification.
