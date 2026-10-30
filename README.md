@@ -1,6 +1,6 @@
 # NLP Course Assignments
 
-This repository contains five assignments completed as part of the **Natural Language Processing** course. The assignments cover Persian text clustering, neural network hyperparameter tuning, Naive Bayes classification, Word Embeddings, Recurrent Neural Networks (RNN/LSTM), and Convolutional Neural Networks (CNN) for text classification.
+This repository contains five assignments completed as part of the **Natural Language Processing** course. The assignments cover Persian text clustering, neural network hyperparameter tuning, Naive Bayes classification, Word Embeddings, Recurrent Neural Networks, and Convolutional Neural Networks for text classification.
 Each assignment is documented separately, and its corresponding implementation files and experimental results are uploaded using the assignment number.
 
 ---
